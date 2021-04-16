@@ -1,3 +1,6 @@
+
+//The Solution is the catalan's number.
+
 int numTrees(int n) {
     int dp[n+1];
     dp[0] = dp[1] = 1;
